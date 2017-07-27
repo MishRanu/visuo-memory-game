@@ -1,0 +1,5 @@
+Game in Beta Version.
+Pass through the torus in the center for completion of round 1.
+Press end key on completion of a level
+Press insert to get a top view
+Mail: anurag@iitk.ac.in for any queries
